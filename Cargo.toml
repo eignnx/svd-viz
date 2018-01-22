@@ -1,0 +1,6 @@
+[package]
+name = "svd-viz"
+version = "0.1.0"
+authors = ["eignnx <eignnx@gmail.com>"]
+
+[dependencies]
