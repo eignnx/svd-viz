@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["eignnx <eignnx@gmail.com>"]
 
 [dependencies]
+rulinalg = "0.4.2"
+image = "0.18.0"
+imageproc = "0.13.0"
